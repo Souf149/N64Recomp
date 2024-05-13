@@ -11,6 +11,7 @@
 #include "fmt/ostream.h"
 
 #include "recomp_port.h"
+
 #include <set>
 
 std::unordered_set<std::string> reimplemented_funcs{
